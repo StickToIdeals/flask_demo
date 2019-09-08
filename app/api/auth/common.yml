@@ -1,0 +1,27 @@
+Client API DOC
+---
+tags:
+  - Client
+requestBody:
+  description: Test
+  required: true
+  content:
+    application/json:
+      schema:
+        properties:
+          callback_url:
+            type: string
+            format: uri
+            description: Callback URL for request
+callbacks:
+    onSomeEvent:
+      '{$request.body.callback_url}':
+        post:
+          requestBody:
+            description: status payload
+            content:
+              application/json:
+                schema:
+                  properties:
+                    status:
+                      type: string

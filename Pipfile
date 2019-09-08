@@ -1,0 +1,28 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+flask = "*"
+flask-migrate = "*"
+flask-script = "*"
+flask-admin = "*"
+flask-login = "*"
+faker = "*"
+flasgger = "*"
+cymysql = "*"
+flask-httpauth = "*"
+celery = "*"
+redis = "*"
+flask-redis = "*"
+qrcode = {extras = ["pil"],version = "*"}
+oss2 = "*"
+wxpy = "*"
+flask-cors = "*"
+flask-wtf = "*"
+
+[requires]
+python_version = "3.7"

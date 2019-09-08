@@ -1,0 +1,771 @@
+2019-08-31 14:19:47,021 (122): INFO  * Restarting with stat
+2019-08-31 14:19:48,337 (59): INFO create_app start
+2019-08-31 14:19:48,368 (122): WARNING  * Debugger is active!
+2019-08-31 14:19:48,382 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 14:23:02,466 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/libs/_celery.py', reloading
+2019-08-31 14:23:02,571 (122): INFO  * Restarting with stat
+2019-08-31 14:23:04,193 (59): INFO create_app start
+2019-08-31 14:23:04,219 (122): WARNING  * Debugger is active!
+2019-08-31 14:23:04,229 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 14:23:08,312 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/libs/_celery.py', reloading
+2019-08-31 14:23:08,407 (122): INFO  * Restarting with stat
+2019-08-31 14:23:09,026 (59): INFO create_app start
+2019-08-31 14:23:09,040 (122): WARNING  * Debugger is active!
+2019-08-31 14:23:09,047 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 14:23:55,821 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/libs/_celery.py', reloading
+2019-08-31 14:23:55,951 (122): INFO  * Restarting with stat
+2019-08-31 14:23:57,441 (59): INFO create_app start
+2019-08-31 14:23:57,464 (122): WARNING  * Debugger is active!
+2019-08-31 14:23:57,471 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 14:25:00,531 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 14:25:00,631 (122): INFO  * Restarting with stat
+2019-08-31 14:25:02,385 (59): INFO create_app start
+2019-08-31 14:25:02,404 (122): WARNING  * Debugger is active!
+2019-08-31 14:25:02,410 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 14:25:23,750 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/libs/my_celery.py', reloading
+2019-08-31 14:25:23,848 (122): INFO  * Restarting with stat
+2019-08-31 14:25:25,410 (59): INFO create_app start
+2019-08-31 14:25:25,431 (122): WARNING  * Debugger is active!
+2019-08-31 14:25:25,443 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 14:25:35,587 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/libs/my_celery.py', reloading
+2019-08-31 14:25:35,681 (122): INFO  * Restarting with stat
+2019-08-31 14:25:36,368 (59): INFO create_app start
+2019-08-31 14:25:36,384 (122): WARNING  * Debugger is active!
+2019-08-31 14:25:36,389 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 14:27:30,240 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/libs/my_celery.py', reloading
+2019-08-31 14:27:30,338 (122): INFO  * Restarting with stat
+2019-08-31 14:27:31,587 (59): INFO create_app start
+2019-08-31 14:27:31,604 (122): WARNING  * Debugger is active!
+2019-08-31 14:27:31,611 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 14:28:32,540 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/libs/my_celery.py', reloading
+2019-08-31 14:28:32,645 (122): INFO  * Restarting with stat
+2019-08-31 14:28:34,069 (59): INFO create_app start
+2019-08-31 14:28:34,099 (122): WARNING  * Debugger is active!
+2019-08-31 14:28:34,117 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 14:31:59,483 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/libs/my_celery.py', reloading
+2019-08-31 14:31:59,576 (122): INFO  * Restarting with stat
+2019-08-31 14:33:50,193 (60): INFO create_app start
+2019-08-31 14:33:50,217 (122): INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-08-31 14:33:50,220 (122): INFO  * Restarting with stat
+2019-08-31 14:33:50,778 (60): INFO create_app start
+2019-08-31 14:33:50,792 (122): WARNING  * Debugger is active!
+2019-08-31 14:33:50,801 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 14:35:31,383 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/libs/my_celery.py', reloading
+2019-08-31 14:35:31,512 (122): INFO  * Restarting with stat
+2019-08-31 14:44:18,632 (58): INFO create_app start
+2019-08-31 14:44:18,663 (122): INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-08-31 14:44:18,664 (122): INFO  * Restarting with stat
+2019-08-31 14:44:19,200 (58): INFO create_app start
+2019-08-31 14:44:19,218 (122): WARNING  * Debugger is active!
+2019-08-31 14:44:19,243 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 14:44:46,649 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 14:44:46,741 (122): INFO  * Restarting with stat
+2019-08-31 14:44:48,154 (58): INFO create_app start
+2019-08-31 14:44:48,191 (122): WARNING  * Debugger is active!
+2019-08-31 14:44:48,199 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 14:44:51,263 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 14:44:51,357 (122): INFO  * Restarting with stat
+2019-08-31 14:44:51,888 (58): INFO create_app start
+2019-08-31 14:44:51,908 (122): WARNING  * Debugger is active!
+2019-08-31 14:44:51,914 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 14:45:25,371 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 14:45:25,476 (122): INFO  * Restarting with stat
+2019-08-31 14:45:27,091 (58): INFO create_app start
+2019-08-31 14:45:27,117 (122): WARNING  * Debugger is active!
+2019-08-31 14:45:27,131 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 14:45:36,330 (26): ERROR error:
+2019-08-31 14:45:36,354 (122): INFO 127.0.0.1 - - [31/Aug/2019 14:45:36] "GET /task HTTP/1.1" 500 -
+2019-08-31 14:45:36,389 (122): INFO 127.0.0.1 - - [31/Aug/2019 14:45:36] "GET /task?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-08-31 14:45:36,432 (122): INFO 127.0.0.1 - - [31/Aug/2019 14:45:36] "GET /task?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-08-31 14:45:36,433 (122): INFO 127.0.0.1 - - [31/Aug/2019 14:45:36] "GET /task?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-08-31 14:45:36,658 (122): INFO 127.0.0.1 - - [31/Aug/2019 14:45:36] "GET /task?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-08-31 14:45:36,670 (122): INFO 127.0.0.1 - - [31/Aug/2019 14:45:36] "GET /task?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-08-31 14:45:36,740 (122): INFO 127.0.0.1 - - [31/Aug/2019 14:45:36] "GET /task?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-08-31 14:46:02,720 (26): ERROR error:
+2019-08-31 14:46:02,738 (122): INFO 127.0.0.1 - - [31/Aug/2019 14:46:02] "GET /task HTTP/1.1" 500 -
+2019-08-31 14:46:02,756 (122): INFO 127.0.0.1 - - [31/Aug/2019 14:46:02] "GET /task?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-08-31 14:46:02,760 (122): INFO 127.0.0.1 - - [31/Aug/2019 14:46:02] "GET /task?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-08-31 14:46:02,767 (122): INFO 127.0.0.1 - - [31/Aug/2019 14:46:02] "GET /task?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-08-31 14:46:02,845 (122): INFO 127.0.0.1 - - [31/Aug/2019 14:46:02] "GET /task?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-08-31 14:46:02,852 (122): INFO 127.0.0.1 - - [31/Aug/2019 14:46:02] "GET /task?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-08-31 14:46:02,884 (122): INFO 127.0.0.1 - - [31/Aug/2019 14:46:02] "GET /task?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-08-31 14:47:20,967 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 14:47:21,080 (122): INFO  * Restarting with stat
+2019-08-31 14:47:22,711 (60): INFO create_app start
+2019-08-31 14:47:22,736 (122): WARNING  * Debugger is active!
+2019-08-31 14:47:22,743 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 14:47:23,773 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 14:47:23,848 (122): INFO  * Restarting with stat
+2019-08-31 14:47:24,521 (60): INFO create_app start
+2019-08-31 14:47:24,546 (122): WARNING  * Debugger is active!
+2019-08-31 14:47:24,553 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 14:48:41,834 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 14:48:41,925 (122): INFO  * Restarting with stat
+2019-08-31 14:48:43,436 (61): INFO create_app start
+2019-08-31 14:48:43,469 (122): WARNING  * Debugger is active!
+2019-08-31 14:48:43,477 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 14:48:52,636 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 14:48:52,747 (122): INFO  * Restarting with stat
+2019-08-31 14:48:53,378 (60): INFO create_app start
+2019-08-31 14:48:53,399 (122): WARNING  * Debugger is active!
+2019-08-31 14:48:53,406 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 14:52:31,948 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 14:52:32,080 (122): INFO  * Restarting with stat
+2019-08-31 14:57:34,664 (60): INFO create_app start
+2019-08-31 14:57:34,692 (122): INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-08-31 14:57:34,694 (122): INFO  * Restarting with stat
+2019-08-31 14:57:35,356 (60): INFO create_app start
+2019-08-31 14:57:35,373 (122): WARNING  * Debugger is active!
+2019-08-31 14:57:35,382 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 15:03:18,678 (60): INFO create_app start
+2019-08-31 15:05:08,008 (60): INFO create_app start
+2019-08-31 15:07:26,571 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 15:07:26,683 (122): INFO  * Restarting with stat
+2019-08-31 15:07:27,654 (63): INFO create_app start
+2019-08-31 15:07:27,677 (122): WARNING  * Debugger is active!
+2019-08-31 15:07:27,684 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 15:08:28,667 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 15:08:28,757 (122): INFO  * Restarting with stat
+2019-08-31 15:08:29,598 (63): INFO create_app start
+2019-08-31 15:08:29,628 (122): WARNING  * Debugger is active!
+2019-08-31 15:08:29,647 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 15:11:32,546 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 15:11:32,629 (122): INFO  * Restarting with stat
+2019-08-31 15:11:33,417 (61): INFO create_app start
+2019-08-31 15:11:33,437 (122): WARNING  * Debugger is active!
+2019-08-31 15:11:33,443 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 15:12:26,244 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 15:12:26,337 (122): INFO  * Restarting with stat
+2019-08-31 15:12:27,104 (61): INFO create_app start
+2019-08-31 15:12:27,121 (122): WARNING  * Debugger is active!
+2019-08-31 15:12:27,127 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 15:12:52,555 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 15:12:52,644 (122): INFO  * Restarting with stat
+2019-08-31 15:12:53,742 (61): INFO create_app start
+2019-08-31 15:12:53,760 (122): WARNING  * Debugger is active!
+2019-08-31 15:12:53,766 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 15:13:00,529 (122): INFO 127.0.0.1 - - [31/Aug/2019 15:13:00] "GET /task HTTP/1.1" 500 -
+2019-08-31 15:13:00,554 (122): INFO 127.0.0.1 - - [31/Aug/2019 15:13:00] "GET /task?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-08-31 15:13:00,556 (122): INFO 127.0.0.1 - - [31/Aug/2019 15:13:00] "GET /task?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-08-31 15:13:00,558 (122): INFO 127.0.0.1 - - [31/Aug/2019 15:13:00] "GET /task?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-08-31 15:13:00,651 (122): INFO 127.0.0.1 - - [31/Aug/2019 15:13:00] "GET /task?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-08-31 15:13:00,655 (122): INFO 127.0.0.1 - - [31/Aug/2019 15:13:00] "GET /task?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-08-31 15:13:20,208 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 15:13:20,298 (122): INFO  * Restarting with stat
+2019-08-31 15:13:21,519 (61): INFO create_app start
+2019-08-31 15:13:21,541 (122): WARNING  * Debugger is active!
+2019-08-31 15:13:21,555 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 15:13:27,110 (122): INFO 127.0.0.1 - - [31/Aug/2019 15:13:27] "GET /task HTTP/1.1" 200 -
+2019-08-31 15:13:55,183 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/tasks.py', reloading
+2019-08-31 15:13:55,292 (122): INFO  * Restarting with stat
+2019-08-31 15:13:55,994 (61): INFO create_app start
+2019-08-31 15:13:56,013 (122): WARNING  * Debugger is active!
+2019-08-31 15:13:56,021 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 15:14:25,405 (122): INFO 127.0.0.1 - - [31/Aug/2019 15:14:25] "GET /task HTTP/1.1" 200 -
+2019-08-31 15:14:25,802 (122): INFO 127.0.0.1 - - [31/Aug/2019 15:14:25] "GET /task HTTP/1.1" 200 -
+2019-08-31 15:14:28,052 (122): INFO 127.0.0.1 - - [31/Aug/2019 15:14:28] "GET /task HTTP/1.1" 200 -
+2019-08-31 15:15:09,664 (122): INFO 127.0.0.1 - - [31/Aug/2019 15:15:09] "GET /task HTTP/1.1" 200 -
+2019-08-31 15:18:35,859 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/libs/_celery.py', reloading
+2019-08-31 15:18:36,014 (122): INFO  * Restarting with stat
+2019-08-31 15:18:37,621 (61): INFO create_app start
+2019-08-31 15:18:37,652 (122): WARNING  * Debugger is active!
+2019-08-31 15:18:37,659 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 15:18:54,247 (122): INFO 127.0.0.1 - - [31/Aug/2019 15:18:54] "GET /task HTTP/1.1" 200 -
+2019-08-31 15:22:24,284 (61): INFO create_app start
+2019-08-31 15:22:24,316 (122): INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-08-31 15:22:24,317 (122): INFO  * Restarting with stat
+2019-08-31 15:22:24,966 (61): INFO create_app start
+2019-08-31 15:22:24,985 (122): WARNING  * Debugger is active!
+2019-08-31 15:22:24,994 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 15:22:31,346 (122): INFO 127.0.0.1 - - [31/Aug/2019 15:22:31] "GET /task HTTP/1.1" 200 -
+2019-08-31 15:22:32,321 (122): INFO 127.0.0.1 - - [31/Aug/2019 15:22:32] "GET /task HTTP/1.1" 200 -
+2019-08-31 15:24:03,800 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 15:24:03,928 (122): INFO  * Restarting with stat
+2019-08-31 15:24:05,329 (61): INFO create_app start
+2019-08-31 15:24:05,354 (122): WARNING  * Debugger is active!
+2019-08-31 15:24:05,365 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 15:24:09,573 (122): INFO 127.0.0.1 - - [31/Aug/2019 15:24:09] "GET /task HTTP/1.1" 200 -
+2019-08-31 15:24:42,755 (122): INFO 127.0.0.1 - - [31/Aug/2019 15:24:42] "GET /task HTTP/1.1" 200 -
+2019-08-31 15:24:43,755 (122): INFO 127.0.0.1 - - [31/Aug/2019 15:24:43] "GET /task HTTP/1.1" 200 -
+2019-08-31 15:40:50,272 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/tasks.py', reloading
+2019-08-31 15:40:50,390 (122): INFO  * Restarting with stat
+2019-08-31 15:40:51,492 (61): INFO create_app start
+2019-08-31 15:40:51,514 (122): WARNING  * Debugger is active!
+2019-08-31 15:40:51,521 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 15:41:22,015 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 15:41:22,115 (122): INFO  * Restarting with stat
+2019-08-31 15:41:23,393 (61): INFO create_app start
+2019-08-31 15:41:23,420 (122): WARNING  * Debugger is active!
+2019-08-31 15:41:23,428 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 15:42:50,935 (61): INFO create_app start
+2019-08-31 15:42:57,196 (61): INFO create_app start
+2019-08-31 15:49:27,041 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 15:49:27,188 (122): INFO  * Restarting with stat
+2019-08-31 15:49:28,504 (62): INFO create_app start
+2019-08-31 15:49:28,539 (122): WARNING  * Debugger is active!
+2019-08-31 15:49:28,548 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 15:50:11,256 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 15:50:11,347 (122): INFO  * Restarting with stat
+2019-08-31 15:51:22,825 (66): INFO create_app start
+2019-08-31 15:51:22,845 (122): INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-08-31 15:51:22,846 (122): INFO  * Restarting with stat
+2019-08-31 15:51:23,508 (66): INFO create_app start
+2019-08-31 15:51:23,528 (122): WARNING  * Debugger is active!
+2019-08-31 15:51:23,535 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 15:52:37,758 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 15:52:37,873 (122): INFO  * Restarting with stat
+2019-08-31 15:52:38,560 (66): INFO create_app start
+2019-08-31 15:52:38,579 (122): WARNING  * Debugger is active!
+2019-08-31 15:52:38,584 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 15:53:35,510 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 15:53:35,633 (122): INFO  * Restarting with stat
+2019-08-31 15:53:36,511 (66): INFO create_app start
+2019-08-31 15:53:36,536 (122): WARNING  * Debugger is active!
+2019-08-31 15:53:36,549 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 15:53:39,111 (66): INFO create_app start
+2019-08-31 15:53:39,132 (122): INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-08-31 15:53:39,133 (122): INFO  * Restarting with stat
+2019-08-31 15:53:39,748 (66): INFO create_app start
+2019-08-31 15:53:39,768 (122): WARNING  * Debugger is active!
+2019-08-31 15:53:39,775 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 15:55:59,988 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 15:56:00,113 (122): INFO  * Restarting with stat
+2019-08-31 15:58:10,141 (68): INFO create_app start
+2019-08-31 15:58:10,173 (122): INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-08-31 15:58:10,175 (122): INFO  * Restarting with stat
+2019-08-31 15:58:10,799 (68): INFO create_app start
+2019-08-31 15:58:10,816 (122): WARNING  * Debugger is active!
+2019-08-31 15:58:10,824 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 15:58:54,566 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 15:58:54,657 (122): INFO  * Restarting with stat
+2019-08-31 15:58:55,449 (66): INFO create_app start
+2019-08-31 15:58:55,464 (122): WARNING  * Debugger is active!
+2019-08-31 15:58:55,470 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 16:02:30,955 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 16:02:31,083 (122): INFO  * Restarting with stat
+2019-08-31 16:02:51,466 (67): INFO create_app start
+2019-08-31 16:02:51,510 (122): INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-08-31 16:02:51,511 (122): INFO  * Restarting with stat
+2019-08-31 16:02:52,216 (67): INFO create_app start
+2019-08-31 16:02:52,243 (122): WARNING  * Debugger is active!
+2019-08-31 16:02:52,251 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 16:03:24,776 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 16:03:24,870 (122): INFO  * Restarting with stat
+2019-08-31 16:03:25,602 (67): INFO create_app start
+2019-08-31 16:03:25,619 (122): WARNING  * Debugger is active!
+2019-08-31 16:03:25,625 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 16:12:59,164 (66): INFO create_app start
+2019-08-31 16:13:11,321 (66): INFO create_app start
+2019-08-31 16:13:11,342 (122): INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-08-31 16:13:11,343 (122): INFO  * Restarting with stat
+2019-08-31 16:13:12,016 (66): INFO create_app start
+2019-08-31 16:13:12,033 (122): WARNING  * Debugger is active!
+2019-08-31 16:13:12,041 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 16:16:37,350 (26): ERROR error:
+2019-08-31 16:16:37,365 (122): INFO 127.0.0.1 - - [31/Aug/2019 16:16:37] "GET /task HTTP/1.1" 500 -
+2019-08-31 16:16:37,414 (122): INFO 127.0.0.1 - - [31/Aug/2019 16:16:37] "GET /task?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-08-31 16:16:37,421 (122): INFO 127.0.0.1 - - [31/Aug/2019 16:16:37] "GET /task?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-08-31 16:16:37,423 (122): INFO 127.0.0.1 - - [31/Aug/2019 16:16:37] "GET /task?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-08-31 16:16:37,512 (122): INFO 127.0.0.1 - - [31/Aug/2019 16:16:37] "GET /task?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-08-31 16:16:37,520 (122): INFO 127.0.0.1 - - [31/Aug/2019 16:16:37] "GET /task?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-08-31 16:16:37,577 (122): INFO 127.0.0.1 - - [31/Aug/2019 16:16:37] "GET /task?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-08-31 16:17:06,667 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 16:17:06,779 (122): INFO  * Restarting with stat
+2019-08-31 16:17:08,113 (66): INFO create_app start
+2019-08-31 16:17:08,136 (122): WARNING  * Debugger is active!
+2019-08-31 16:17:08,144 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 16:17:24,422 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 16:17:24,516 (122): INFO  * Restarting with stat
+2019-08-31 16:17:26,203 (66): INFO create_app start
+2019-08-31 16:17:26,233 (122): WARNING  * Debugger is active!
+2019-08-31 16:17:26,252 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 16:17:31,461 (122): INFO 127.0.0.1 - - [31/Aug/2019 16:17:31] "GET /task HTTP/1.1" 200 -
+2019-08-31 16:24:15,903 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 16:24:16,054 (122): INFO  * Restarting with stat
+2019-08-31 16:24:17,857 (59): INFO create_app start
+2019-08-31 16:24:17,903 (122): WARNING  * Debugger is active!
+2019-08-31 16:24:17,909 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 16:24:36,224 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 16:24:36,732 (122): INFO  * Restarting with stat
+2019-08-31 16:24:39,954 (60): INFO create_app start
+2019-08-31 16:24:40,143 (122): WARNING  * Debugger is active!
+2019-08-31 16:24:40,152 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 16:24:55,455 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 16:24:55,550 (122): INFO  * Restarting with stat
+2019-08-31 16:24:56,650 (61): INFO create_app start
+2019-08-31 16:24:56,675 (122): WARNING  * Debugger is active!
+2019-08-31 16:24:56,682 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 16:27:15,062 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 16:27:15,166 (122): INFO  * Restarting with stat
+2019-08-31 16:27:15,872 (67): INFO create_app start
+2019-08-31 16:27:15,895 (122): WARNING  * Debugger is active!
+2019-08-31 16:27:15,902 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 16:29:41,226 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 16:29:41,322 (122): INFO  * Restarting with stat
+2019-08-31 16:29:42,014 (66): INFO create_app start
+2019-08-31 16:29:42,033 (122): WARNING  * Debugger is active!
+2019-08-31 16:29:42,038 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 16:30:00,326 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 16:30:00,427 (122): INFO  * Restarting with stat
+2019-08-31 16:30:01,206 (67): INFO create_app start
+2019-08-31 16:30:01,225 (122): WARNING  * Debugger is active!
+2019-08-31 16:30:01,232 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 16:31:29,723 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 16:31:29,807 (122): INFO  * Restarting with stat
+2019-08-31 16:31:30,526 (67): INFO create_app start
+2019-08-31 16:31:30,543 (122): WARNING  * Debugger is active!
+2019-08-31 16:31:30,548 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 16:32:56,963 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 16:32:57,069 (122): INFO  * Restarting with stat
+2019-08-31 16:32:57,798 (68): INFO create_app start
+2019-08-31 16:32:57,825 (122): WARNING  * Debugger is active!
+2019-08-31 16:32:57,833 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 16:33:57,837 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 16:33:57,939 (122): INFO  * Restarting with stat
+2019-08-31 16:33:58,856 (67): INFO create_app start
+2019-08-31 16:33:58,889 (122): WARNING  * Debugger is active!
+2019-08-31 16:33:58,900 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 16:45:47,125 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 16:45:47,259 (122): INFO  * Restarting with stat
+2019-08-31 16:50:15,122 (64): INFO create_app start
+2019-08-31 16:50:15,179 (122): INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-08-31 16:50:15,180 (122): INFO  * Restarting with stat
+2019-08-31 16:50:15,858 (64): INFO create_app start
+2019-08-31 16:50:15,873 (122): WARNING  * Debugger is active!
+2019-08-31 16:50:15,884 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 16:53:25,936 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 16:53:26,082 (122): INFO  * Restarting with stat
+2019-08-31 16:55:16,816 (66): INFO create_app start
+2019-08-31 16:55:26,149 (66): INFO create_app start
+2019-08-31 16:56:37,164 (65): INFO create_app start
+2019-08-31 16:57:32,922 (65): INFO create_app start
+2019-08-31 16:57:32,955 (122): INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-08-31 16:57:32,956 (122): INFO  * Restarting with stat
+2019-08-31 16:57:33,624 (65): INFO create_app start
+2019-08-31 16:57:33,644 (122): WARNING  * Debugger is active!
+2019-08-31 16:57:33,652 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 16:57:34,870 (27): ERROR error:
+2019-08-31 16:57:34,911 (122): INFO 127.0.0.1 - - [31/Aug/2019 16:57:34] "GET /task HTTP/1.1" 500 -
+2019-08-31 16:57:37,549 (27): ERROR error:
+2019-08-31 16:57:37,575 (122): INFO 127.0.0.1 - - [31/Aug/2019 16:57:37] "GET /task HTTP/1.1" 500 -
+2019-08-31 16:57:37,635 (122): INFO 127.0.0.1 - - [31/Aug/2019 16:57:37] "GET /task?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-08-31 16:57:37,647 (122): INFO 127.0.0.1 - - [31/Aug/2019 16:57:37] "GET /task?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-08-31 16:57:37,650 (122): INFO 127.0.0.1 - - [31/Aug/2019 16:57:37] "GET /task?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-08-31 16:57:37,851 (122): INFO 127.0.0.1 - - [31/Aug/2019 16:57:37] "GET /task?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-08-31 16:57:37,897 (122): INFO 127.0.0.1 - - [31/Aug/2019 16:57:37] "GET /task?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-08-31 16:57:37,939 (122): INFO 127.0.0.1 - - [31/Aug/2019 16:57:37] "GET /task?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-08-31 16:57:52,679 (27): ERROR error:
+2019-08-31 16:57:52,698 (122): INFO 127.0.0.1 - - [31/Aug/2019 16:57:52] "GET /task HTTP/1.1" 500 -
+2019-08-31 16:57:52,713 (122): INFO 127.0.0.1 - - [31/Aug/2019 16:57:52] "GET /task?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-08-31 16:57:52,715 (122): INFO 127.0.0.1 - - [31/Aug/2019 16:57:52] "GET /task?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-08-31 16:57:52,716 (122): INFO 127.0.0.1 - - [31/Aug/2019 16:57:52] "GET /task?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-08-31 16:57:52,827 (122): INFO 127.0.0.1 - - [31/Aug/2019 16:57:52] "GET /task?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-08-31 16:57:52,834 (122): INFO 127.0.0.1 - - [31/Aug/2019 16:57:52] "GET /task?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-08-31 16:59:02,277 (122): INFO 127.0.0.1 - - [31/Aug/2019 16:59:02] "GET /task HTTP/1.1" 200 -
+2019-08-31 16:59:46,066 (65): INFO create_app start
+2019-08-31 16:59:49,698 (122): INFO 127.0.0.1 - - [31/Aug/2019 16:59:49] "GET /task HTTP/1.1" 200 -
+2019-08-31 17:00:58,133 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 17:00:58,263 (122): INFO  * Restarting with stat
+2019-08-31 17:00:59,565 (64): INFO create_app start
+2019-08-31 17:00:59,594 (122): WARNING  * Debugger is active!
+2019-08-31 17:00:59,607 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:02:08,804 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/manage.py', reloading
+2019-08-31 17:02:08,895 (122): INFO  * Restarting with stat
+2019-08-31 17:03:50,876 (64): INFO create_app start
+2019-08-31 17:03:50,902 (122): INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-08-31 17:03:50,904 (122): INFO  * Restarting with stat
+2019-08-31 17:03:51,533 (64): INFO create_app start
+2019-08-31 17:03:51,551 (122): WARNING  * Debugger is active!
+2019-08-31 17:03:51,557 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:03:54,312 (64): INFO create_app start
+2019-08-31 17:03:58,641 (28): ERROR error:
+2019-08-31 17:03:58,664 (122): INFO 127.0.0.1 - - [31/Aug/2019 17:03:58] "GET /task HTTP/1.1" 500 -
+2019-08-31 17:03:58,679 (122): INFO 127.0.0.1 - - [31/Aug/2019 17:03:58] "GET /task?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-08-31 17:03:58,683 (122): INFO 127.0.0.1 - - [31/Aug/2019 17:03:58] "GET /task?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-08-31 17:03:58,685 (122): INFO 127.0.0.1 - - [31/Aug/2019 17:03:58] "GET /task?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-08-31 17:03:58,763 (122): INFO 127.0.0.1 - - [31/Aug/2019 17:03:58] "GET /task?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-08-31 17:03:58,765 (122): INFO 127.0.0.1 - - [31/Aug/2019 17:03:58] "GET /task?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-08-31 17:03:58,789 (122): INFO 127.0.0.1 - - [31/Aug/2019 17:03:58] "GET /task?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-08-31 17:04:18,012 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 17:04:18,096 (122): INFO  * Restarting with stat
+2019-08-31 17:04:18,835 (64): INFO create_app start
+2019-08-31 17:04:18,854 (122): WARNING  * Debugger is active!
+2019-08-31 17:04:18,866 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:04:19,896 (122): INFO 127.0.0.1 - - [31/Aug/2019 17:04:19] "GET /task HTTP/1.1" 200 -
+2019-08-31 17:05:59,650 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 17:05:59,763 (122): INFO  * Restarting with stat
+2019-08-31 17:06:01,369 (64): INFO create_app start
+2019-08-31 17:06:01,391 (122): WARNING  * Debugger is active!
+2019-08-31 17:06:01,399 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:06:07,902 (122): INFO 127.0.0.1 - - [31/Aug/2019 17:06:07] "GET /task HTTP/1.1" 200 -
+2019-08-31 17:07:56,378 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 17:07:56,490 (122): INFO  * Restarting with stat
+2019-08-31 17:07:57,702 (64): INFO create_app start
+2019-08-31 17:07:57,725 (122): WARNING  * Debugger is active!
+2019-08-31 17:07:57,731 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:08:03,850 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 17:08:03,933 (122): INFO  * Restarting with stat
+2019-08-31 17:08:04,605 (64): INFO create_app start
+2019-08-31 17:08:04,620 (122): WARNING  * Debugger is active!
+2019-08-31 17:08:04,626 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:08:11,858 (122): INFO 127.0.0.1 - - [31/Aug/2019 17:08:11] "GET /task HTTP/1.1" 200 -
+2019-08-31 17:08:17,660 (64): INFO create_app start
+2019-08-31 17:08:39,955 (64): INFO create_app start
+2019-08-31 17:09:31,223 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/tasks/__init__.py', reloading
+2019-08-31 17:09:31,364 (122): INFO  * Restarting with stat
+2019-08-31 17:09:32,142 (64): INFO create_app start
+2019-08-31 17:09:32,160 (122): WARNING  * Debugger is active!
+2019-08-31 17:09:32,174 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:09:35,584 (64): INFO create_app start
+2019-08-31 17:10:59,819 (122): INFO 127.0.0.1 - - [31/Aug/2019 17:10:59] "GET /task HTTP/1.1" 200 -
+2019-08-31 17:11:17,664 (64): INFO create_app start
+2019-08-31 17:11:21,105 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/tasks/__init__.py', reloading
+2019-08-31 17:11:21,220 (122): INFO  * Restarting with stat
+2019-08-31 17:11:21,892 (64): INFO create_app start
+2019-08-31 17:11:21,915 (122): WARNING  * Debugger is active!
+2019-08-31 17:11:21,923 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:11:26,002 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 17:11:26,086 (122): INFO  * Restarting with stat
+2019-08-31 17:11:26,774 (64): INFO create_app start
+2019-08-31 17:11:26,800 (122): WARNING  * Debugger is active!
+2019-08-31 17:11:26,806 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:11:28,166 (64): INFO create_app start
+2019-08-31 17:11:33,935 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 17:11:34,026 (122): INFO  * Restarting with stat
+2019-08-31 17:11:34,725 (64): INFO create_app start
+2019-08-31 17:11:34,753 (122): WARNING  * Debugger is active!
+2019-08-31 17:11:34,760 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:11:36,340 (64): INFO create_app start
+2019-08-31 17:11:52,061 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 17:11:52,161 (122): INFO  * Restarting with stat
+2019-08-31 17:11:52,829 (64): INFO create_app start
+2019-08-31 17:11:52,847 (122): WARNING  * Debugger is active!
+2019-08-31 17:11:52,852 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:11:54,111 (64): INFO create_app start
+2019-08-31 17:12:05,060 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 17:12:05,133 (122): INFO  * Restarting with stat
+2019-08-31 17:12:05,991 (64): INFO create_app start
+2019-08-31 17:12:06,007 (122): WARNING  * Debugger is active!
+2019-08-31 17:12:06,013 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:12:08,012 (64): INFO create_app start
+2019-08-31 17:16:53,811 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/libs/flask_celery.py', reloading
+2019-08-31 17:16:53,921 (122): INFO  * Restarting with stat
+2019-08-31 17:16:55,377 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:16:55,558 (64): INFO create_app start
+2019-08-31 17:16:55,585 (122): WARNING  * Debugger is active!
+2019-08-31 17:16:55,593 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:16:57,560 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:16:57,609 (64): INFO create_app start
+2019-08-31 17:17:03,738 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 17:17:03,846 (122): INFO  * Restarting with stat
+2019-08-31 17:17:04,649 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:17:04,853 (64): INFO create_app start
+2019-08-31 17:17:04,871 (122): WARNING  * Debugger is active!
+2019-08-31 17:17:04,878 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:17:07,624 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:17:07,672 (64): INFO create_app start
+2019-08-31 17:21:59,701 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 17:21:59,804 (122): INFO  * Restarting with stat
+2019-08-31 17:22:00,968 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:22:01,179 (64): INFO create_app start
+2019-08-31 17:22:01,204 (122): WARNING  * Debugger is active!
+2019-08-31 17:22:01,212 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:22:22,449 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:22:22,504 (64): INFO create_app start
+2019-08-31 17:24:34,701 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:24:34,748 (64): INFO create_app start
+2019-08-31 17:24:37,470 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:24:37,513 (64): INFO create_app start
+2019-08-31 17:24:49,950 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 17:24:50,051 (122): INFO  * Restarting with stat
+2019-08-31 17:24:50,691 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:24:50,804 (64): INFO create_app start
+2019-08-31 17:24:50,823 (122): WARNING  * Debugger is active!
+2019-08-31 17:24:50,829 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:24:51,834 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:24:51,883 (64): INFO create_app start
+2019-08-31 17:25:05,634 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:25:05,676 (64): INFO create_app start
+2019-08-31 17:25:40,737 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:25:40,811 (64): INFO create_app start
+2019-08-31 17:25:53,352 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:25:53,436 (64): INFO create_app start
+2019-08-31 17:26:50,121 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:26:50,198 (64): INFO create_app start
+2019-08-31 17:27:04,059 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 17:27:04,163 (122): INFO  * Restarting with stat
+2019-08-31 17:27:04,809 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:27:04,910 (64): INFO create_app start
+2019-08-31 17:27:04,958 (122): WARNING  * Debugger is active!
+2019-08-31 17:27:04,967 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:27:05,730 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:27:05,772 (64): INFO create_app start
+2019-08-31 17:28:33,496 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 17:28:33,602 (122): INFO  * Restarting with stat
+2019-08-31 17:28:34,872 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:28:35,144 (64): INFO create_app start
+2019-08-31 17:28:35,176 (122): WARNING  * Debugger is active!
+2019-08-31 17:28:35,196 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:28:36,072 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:28:36,116 (64): INFO create_app start
+2019-08-31 17:29:05,077 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:29:05,219 (64): INFO create_app start
+2019-08-31 17:29:11,826 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 17:29:11,937 (122): INFO  * Restarting with stat
+2019-08-31 17:29:12,533 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:29:12,646 (64): INFO create_app start
+2019-08-31 17:29:12,673 (122): WARNING  * Debugger is active!
+2019-08-31 17:29:12,679 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:29:13,569 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:29:13,615 (64): INFO create_app start
+2019-08-31 17:29:46,267 (122): INFO 127.0.0.1 - - [31/Aug/2019 17:29:46] "GET /task HTTP/1.1" 200 -
+2019-08-31 17:30:43,276 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/setting.py', reloading
+2019-08-31 17:30:43,387 (122): INFO  * Restarting with stat
+2019-08-31 17:30:44,952 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:30:45,211 (64): INFO create_app start
+2019-08-31 17:30:45,251 (122): WARNING  * Debugger is active!
+2019-08-31 17:30:45,259 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:30:47,325 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 17:30:47,467 (122): INFO  * Restarting with stat
+2019-08-31 17:30:48,139 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:30:48,260 (64): INFO create_app start
+2019-08-31 17:30:48,281 (122): WARNING  * Debugger is active!
+2019-08-31 17:30:48,290 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:30:55,442 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/__init__.py', reloading
+2019-08-31 17:30:55,546 (122): INFO  * Restarting with stat
+2019-08-31 17:30:56,166 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:30:56,317 (61): INFO create_app start
+2019-08-31 17:30:56,343 (122): WARNING  * Debugger is active!
+2019-08-31 17:30:56,351 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:31:01,647 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:31:01,689 (61): INFO create_app start
+2019-08-31 17:32:33,004 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 17:32:33,103 (122): INFO  * Restarting with stat
+2019-08-31 17:32:34,293 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:32:34,494 (61): INFO create_app start
+2019-08-31 17:32:34,518 (122): WARNING  * Debugger is active!
+2019-08-31 17:32:34,525 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:32:45,749 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 17:32:45,834 (122): INFO  * Restarting with stat
+2019-08-31 17:32:46,844 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:32:47,096 (61): INFO create_app start
+2019-08-31 17:32:47,126 (122): WARNING  * Debugger is active!
+2019-08-31 17:32:47,136 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:32:57,141 (122): INFO 127.0.0.1 - - [31/Aug/2019 17:32:57] "GET /task/10/30 HTTP/1.1" 200 -
+2019-08-31 17:33:10,574 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 17:33:10,665 (122): INFO  * Restarting with stat
+2019-08-31 17:33:12,048 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:33:12,317 (61): INFO create_app start
+2019-08-31 17:33:12,381 (122): WARNING  * Debugger is active!
+2019-08-31 17:33:12,399 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:33:31,609 (122): INFO 127.0.0.1 - - [31/Aug/2019 17:33:31] "GET /task/10/3 HTTP/1.1" 200 -
+2019-08-31 17:34:57,300 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/setting.py', reloading
+2019-08-31 17:34:57,449 (122): INFO  * Restarting with stat
+2019-08-31 17:34:58,665 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:34:58,867 (61): INFO create_app start
+2019-08-31 17:34:58,888 (122): WARNING  * Debugger is active!
+2019-08-31 17:34:58,895 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:35:27,586 (122): INFO 127.0.0.1 - - [31/Aug/2019 17:35:27] "GET /task/10/3 HTTP/1.1" 200 -
+2019-08-31 17:35:38,103 (122): INFO 127.0.0.1 - - [31/Aug/2019 17:35:38] "GET /task/10/3 HTTP/1.1" 200 -
+2019-08-31 17:36:39,066 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:36:39,180 (61): INFO create_app start
+2019-08-31 17:37:41,667 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/setting.py', reloading
+2019-08-31 17:37:41,778 (122): INFO  * Restarting with stat
+2019-08-31 17:37:42,880 (81): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:37:43,047 (61): INFO create_app start
+2019-08-31 17:37:43,086 (122): WARNING  * Debugger is active!
+2019-08-31 17:37:43,096 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:40:16,960 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/libs/flask_celery.py', reloading
+2019-08-31 17:40:17,084 (122): INFO  * Restarting with stat
+2019-08-31 17:40:18,215 (85): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:40:18,412 (61): INFO create_app start
+2019-08-31 17:40:18,436 (122): WARNING  * Debugger is active!
+2019-08-31 17:40:18,448 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:41:25,783 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/libs/flask_celery.py', reloading
+2019-08-31 17:41:25,936 (122): INFO  * Restarting with stat
+2019-08-31 17:41:27,192 (85): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:41:27,506 (61): INFO create_app start
+2019-08-31 17:41:27,548 (122): WARNING  * Debugger is active!
+2019-08-31 17:41:27,557 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:41:53,040 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/libs/flask_celery.py', reloading
+2019-08-31 17:41:53,200 (122): INFO  * Restarting with stat
+2019-08-31 17:41:54,318 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:41:54,610 (61): INFO create_app start
+2019-08-31 17:41:54,644 (122): WARNING  * Debugger is active!
+2019-08-31 17:41:54,652 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:42:08,916 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/libs/flask_celery.py', reloading
+2019-08-31 17:42:09,018 (122): INFO  * Restarting with stat
+2019-08-31 17:42:10,201 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:42:10,359 (61): INFO create_app start
+2019-08-31 17:42:10,419 (122): WARNING  * Debugger is active!
+2019-08-31 17:42:10,437 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:43:15,627 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/libs/flask_celery.py', reloading
+2019-08-31 17:43:15,743 (122): INFO  * Restarting with stat
+2019-08-31 17:43:16,711 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:43:17,045 (61): INFO create_app start
+2019-08-31 17:43:17,101 (122): WARNING  * Debugger is active!
+2019-08-31 17:43:17,123 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 17:43:23,271 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/libs/flask_celery.py', reloading
+2019-08-31 17:43:23,464 (122): INFO  * Restarting with stat
+2019-08-31 17:43:24,240 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 17:43:24,368 (61): INFO create_app start
+2019-08-31 17:43:24,390 (122): WARNING  * Debugger is active!
+2019-08-31 17:43:24,396 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 21:54:05,806 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 21:54:05,983 (122): INFO  * Restarting with stat
+2019-08-31 21:54:07,522 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 21:54:50,714 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 21:54:50,930 (61): INFO create_app start
+2019-08-31 21:54:50,973 (122): INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-08-31 21:54:50,974 (122): INFO  * Restarting with stat
+2019-08-31 21:54:51,544 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 21:54:51,644 (61): INFO create_app start
+2019-08-31 21:54:51,661 (122): WARNING  * Debugger is active!
+2019-08-31 21:54:51,671 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 21:55:34,363 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 21:55:34,465 (122): INFO  * Restarting with stat
+2019-08-31 21:55:35,502 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 21:55:46,466 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 21:55:46,597 (61): INFO create_app start
+2019-08-31 21:55:46,623 (122): INFO  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-08-31 21:55:46,625 (122): INFO  * Restarting with stat
+2019-08-31 21:55:47,202 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 21:55:47,321 (61): INFO create_app start
+2019-08-31 21:55:47,344 (122): WARNING  * Debugger is active!
+2019-08-31 21:55:47,352 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 21:56:42,119 (28): ERROR error:
+2019-08-31 21:56:42,143 (122): INFO 127.0.0.1 - - [31/Aug/2019 21:56:42] "POST /longtask HTTP/1.1" 500 -
+2019-08-31 22:02:51,336 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/tasks/__init__.py', reloading
+2019-08-31 22:02:51,473 (122): INFO  * Restarting with stat
+2019-08-31 22:02:52,546 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 22:02:52,705 (61): INFO create_app start
+2019-08-31 22:02:52,726 (122): WARNING  * Debugger is active!
+2019-08-31 22:02:52,733 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 22:03:37,494 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 22:03:37,603 (122): INFO  * Restarting with stat
+2019-08-31 22:03:39,473 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 22:03:39,677 (61): INFO create_app start
+2019-08-31 22:03:39,704 (122): WARNING  * Debugger is active!
+2019-08-31 22:03:39,720 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 22:03:45,750 (28): ERROR error:
+2019-08-31 22:03:45,773 (122): INFO 127.0.0.1 - - [31/Aug/2019 22:03:45] "POST /longtask HTTP/1.1" 500 -
+2019-08-31 22:04:17,667 (28): ERROR error:
+2019-08-31 22:04:17,686 (122): INFO 127.0.0.1 - - [31/Aug/2019 22:04:17] "POST /longtask HTTP/1.1" 500 -
+2019-08-31 22:05:08,236 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 22:05:08,378 (122): INFO  * Restarting with stat
+2019-08-31 22:05:09,261 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 22:05:09,463 (61): INFO create_app start
+2019-08-31 22:05:09,487 (122): WARNING  * Debugger is active!
+2019-08-31 22:05:09,494 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 22:05:11,266 (28): ERROR error:
+2019-08-31 22:05:11,279 (122): INFO 127.0.0.1 - - [31/Aug/2019 22:05:11] "POST /longtask HTTP/1.1" 500 -
+2019-08-31 22:05:52,594 (28): ERROR error:
+2019-08-31 22:05:52,614 (122): INFO 127.0.0.1 - - [31/Aug/2019 22:05:52] "POST /longtask HTTP/1.1" 500 -
+2019-08-31 22:06:06,446 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 22:06:06,551 (122): INFO  * Restarting with stat
+2019-08-31 22:06:07,705 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 22:06:07,952 (61): INFO create_app start
+2019-08-31 22:06:07,977 (122): WARNING  * Debugger is active!
+2019-08-31 22:06:07,984 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 22:06:10,690 (28): ERROR error:
+2019-08-31 22:06:10,702 (122): INFO 127.0.0.1 - - [31/Aug/2019 22:06:10] "POST /longtask HTTP/1.1" 500 -
+2019-08-31 22:06:34,479 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 22:06:34,605 (122): INFO  * Restarting with stat
+2019-08-31 22:06:35,605 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 22:06:35,774 (61): INFO create_app start
+2019-08-31 22:06:35,803 (122): WARNING  * Debugger is active!
+2019-08-31 22:06:35,810 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 22:06:37,723 (28): ERROR error:
+2019-08-31 22:06:37,739 (122): INFO 127.0.0.1 - - [31/Aug/2019 22:06:37] "POST /longtask HTTP/1.1" 500 -
+2019-08-31 22:06:50,061 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 22:06:50,191 (122): INFO  * Restarting with stat
+2019-08-31 22:06:51,070 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 22:06:51,268 (61): INFO create_app start
+2019-08-31 22:06:51,298 (122): WARNING  * Debugger is active!
+2019-08-31 22:06:51,322 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 22:06:57,470 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 22:06:57,583 (122): INFO  * Restarting with stat
+2019-08-31 22:06:58,188 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 22:06:58,403 (61): INFO create_app start
+2019-08-31 22:06:58,428 (122): WARNING  * Debugger is active!
+2019-08-31 22:06:58,435 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 22:06:59,847 (122): INFO 127.0.0.1 - - [31/Aug/2019 22:06:59] "POST /longtask HTTP/1.1" 200 -
+2019-08-31 22:07:10,662 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 22:07:10,830 (122): INFO  * Restarting with stat
+2019-08-31 22:07:11,529 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 22:07:11,688 (61): INFO create_app start
+2019-08-31 22:07:11,718 (122): WARNING  * Debugger is active!
+2019-08-31 22:07:11,737 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 22:07:12,677 (122): INFO 127.0.0.1 - - [31/Aug/2019 22:07:12] "POST /longtask HTTP/1.1" 200 -
+2019-08-31 22:07:34,134 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 22:07:34,241 (122): INFO  * Restarting with stat
+2019-08-31 22:07:35,221 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 22:07:35,385 (61): INFO create_app start
+2019-08-31 22:07:35,408 (122): WARNING  * Debugger is active!
+2019-08-31 22:07:35,436 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 22:07:36,501 (122): INFO 127.0.0.1 - - [31/Aug/2019 22:07:36] "POST /longtask HTTP/1.1" 200 -
+2019-08-31 22:07:52,836 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 22:07:52,959 (122): INFO  * Restarting with stat
+2019-08-31 22:07:53,641 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 22:07:53,776 (61): INFO create_app start
+2019-08-31 22:07:53,798 (122): WARNING  * Debugger is active!
+2019-08-31 22:07:53,806 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 22:07:55,382 (28): ERROR error:
+2019-08-31 22:07:55,402 (122): INFO 127.0.0.1 - - [31/Aug/2019 22:07:55] "POST /longtask HTTP/1.1" 500 -
+2019-08-31 22:08:40,693 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 22:08:40,797 (122): INFO  * Restarting with stat
+2019-08-31 22:08:42,066 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 22:08:42,310 (61): INFO create_app start
+2019-08-31 22:08:42,354 (122): WARNING  * Debugger is active!
+2019-08-31 22:08:42,368 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 22:08:42,524 (28): ERROR error:
+2019-08-31 22:08:42,542 (122): INFO 127.0.0.1 - - [31/Aug/2019 22:08:42] "POST /longtask HTTP/1.1" 500 -
+2019-08-31 22:08:52,583 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 22:08:52,693 (122): INFO  * Restarting with stat
+2019-08-31 22:08:53,323 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 22:08:53,565 (61): INFO create_app start
+2019-08-31 22:08:53,593 (122): WARNING  * Debugger is active!
+2019-08-31 22:08:53,606 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 22:08:54,882 (28): ERROR error:
+2019-08-31 22:08:54,898 (122): INFO 127.0.0.1 - - [31/Aug/2019 22:08:54] "POST /longtask HTTP/1.1" 500 -
+2019-08-31 22:09:23,175 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 22:09:23,335 (122): INFO  * Restarting with stat
+2019-08-31 22:09:24,061 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 22:09:24,202 (61): INFO create_app start
+2019-08-31 22:09:24,220 (122): WARNING  * Debugger is active!
+2019-08-31 22:09:24,228 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 22:09:24,683 (28): ERROR error:
+2019-08-31 22:09:24,698 (122): INFO 127.0.0.1 - - [31/Aug/2019 22:09:24] "POST /longtask HTTP/1.1" 500 -
+2019-08-31 22:09:56,319 (122): INFO 127.0.0.1 - - [31/Aug/2019 22:09:56] "GET /status/1b445e47-77ee-4dc6-a683-9de621fdf173 HTTP/1.1" 200 -
+2019-08-31 22:10:06,977 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 22:10:07,071 (122): INFO  * Restarting with stat
+2019-08-31 22:10:08,361 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 22:10:08,499 (61): INFO create_app start
+2019-08-31 22:10:08,522 (122): WARNING  * Debugger is active!
+2019-08-31 22:10:08,532 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 22:10:14,281 (28): ERROR error:
+2019-08-31 22:10:14,297 (122): INFO 127.0.0.1 - - [31/Aug/2019 22:10:14] "POST /longtask HTTP/1.1" 500 -
+2019-08-31 22:11:52,305 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 22:11:52,410 (122): INFO  * Restarting with stat
+2019-08-31 22:11:53,681 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 22:11:53,993 (61): INFO create_app start
+2019-08-31 22:11:54,017 (122): WARNING  * Debugger is active!
+2019-08-31 22:11:54,025 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 22:11:55,821 (122): INFO 127.0.0.1 - - [31/Aug/2019 22:11:55] "POST /longtask HTTP/1.1" 202 -
+2019-08-31 22:12:14,424 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 22:12:14,514 (122): INFO  * Restarting with stat
+2019-08-31 22:12:15,121 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 22:12:15,276 (61): INFO create_app start
+2019-08-31 22:12:15,304 (122): WARNING  * Debugger is active!
+2019-08-31 22:12:15,315 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 22:12:18,063 (28): ERROR error:
+2019-08-31 22:12:18,118 (122): INFO 127.0.0.1 - - [31/Aug/2019 22:12:18] "POST /longtask HTTP/1.1" 500 -
+2019-08-31 22:12:30,596 (122): INFO  * Detected change in '/Users/zhangxin/Documents/flask_demo/app/pages/welcome/views.py', reloading
+2019-08-31 22:12:30,731 (122): INFO  * Restarting with stat
+2019-08-31 22:12:31,571 (89): WARNING You are using filesystem locking backend which is good only for development env or for single task producer setup !
+2019-08-31 22:12:31,847 (61): INFO create_app start
+2019-08-31 22:12:31,880 (122): WARNING  * Debugger is active!
+2019-08-31 22:12:31,895 (122): INFO  * Debugger PIN: 304-312-641
+2019-08-31 22:12:33,935 (122): INFO 127.0.0.1 - - [31/Aug/2019 22:12:33] "POST /longtask HTTP/1.1" 202 -
+2019-08-31 22:12:42,388 (122): INFO 127.0.0.1 - - [31/Aug/2019 22:12:42] "POST /longtask HTTP/1.1" 202 -
+2019-08-31 22:12:43,474 (122): INFO 127.0.0.1 - - [31/Aug/2019 22:12:43] "POST /longtask HTTP/1.1" 202 -
